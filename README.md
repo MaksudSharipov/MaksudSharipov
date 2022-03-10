@@ -3,10 +3,10 @@
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaksudSharipov/)
 
 
-- 👋 What's up guys, I'm MaksudSharipov
-- 💻 I know PHP & MYSQLI & OOP & Yii2 Framework
+- 👋 I'm Maksud Sharipov
+- 💻 I know Machine Learning, NLP, AI, Data Scince, IoT, Python,  C#, C++, OOP, HTML, CSS, Javascript, Django  
 - 👨‍💻 I’m looking to collaborate on projects
-- 💬 I'm 21-years old developer from Uzbekistan/Khorezm
+- 💬 I'm 49-years old developer from Uzbekistan/Khorezm
 - 🌐 My web-site [link](https://urdu.uz/site/viewdep?id=269)
 - 📫 Reach me on [![MaksudSharipov](https://img.shields.io/badge/MaksudSharipov-30302f?style=flat&logo=telegram)](https://t.me/SharipovMaksud)
 
