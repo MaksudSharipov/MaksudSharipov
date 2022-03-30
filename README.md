@@ -2,8 +2,6 @@
 [![wakatime](https://wakatime.com/badge/user/9cb7ca4e-ed50-43e9-80b1-84657406752e.svg)](https://wakatime.com/@9cb7ca4e-ed50-43e9-80b1-84657406752e)
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaksudSharipov/)
 
-
-- 👋 I'm Maksud Sharipov
 - 💻 I know Machine Learning, NLP, AI, Data Scince, IoT, Python,  C#, C++, OOP, HTML, CSS, Javascript, Django  
 - 👨‍💻 I’m looking to collaborate on projects
 - 💬 I'm 49-years old developer from Uzbekistan/Khorezm
